@@ -4,11 +4,11 @@ public class Practice {
     }
 
     public int multiply(int a, int b) {
-        return a * b+1;
+        return a * b+3;
     }
 
     public boolean isEven(int n) {
         return n % 2 == 0;
-    }  //test
+    }  
     
 }
