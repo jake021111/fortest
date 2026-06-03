@@ -4,7 +4,7 @@ public class Practice {
     }
 
     public int multiply(int a, int b) {
-        return a * b+3; 
+        return a * b;// 수정 
     }
 
     public boolean isEven(int n) {
